@@ -27,6 +27,7 @@ public class Main {
                 System.out.println("Наибольшим числом будет " + three);
 
             }
+
         }
 
 
